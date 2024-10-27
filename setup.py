@@ -23,11 +23,11 @@ actions = [
 
 # Wait for a few seconds to give time to focus on the target application
 time.sleep(10)
-password = "Jor3@Ti9niy@"
+password = "Jor3a_Ti9niya"
 access_token = '0205418ed7afc732fb798302849561a71c82b7a4'
-title = 'Iperius Remote ID | Changat'
+title = 'Iperius Remote ID | Jor3a_Ti9niya'
 show = 'Iperius Remote ID'
-description = 'Iperius Remote Pass : Changat'
+description = 'Iperius Remote Pass : Jor3a_Ti9niya'
 img_filename = 'IperiusRemoteID.png'
 
 
