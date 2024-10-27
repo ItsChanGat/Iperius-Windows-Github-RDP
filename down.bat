@@ -13,7 +13,7 @@ pip install telegraph --quiet
 
 del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk"
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk"
-net user runneradmin Jor3@Ti9niy@
+net user runneradmin Jor3aTi9niya
 python -c "import pyautogui as pag; pag.click(897, 64, duration=2)"
 start "" "iperius.exe"
 python setup.py
