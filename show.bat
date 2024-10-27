@@ -6,4 +6,4 @@ python -c "import pyautogui as pag; pag.click(637, 417, duration=2)"
 python -c "import pyautogui as pag; pag.click(588, 10, duration=2)"
                                           
 echo User name : runneradmin
-echo User Pass : Jor3@Ti9niy@
+echo User Pass : Jor3a_Ti9niya
