@@ -23,7 +23,7 @@ actions = [
 
 # Wait for a few seconds to give time to focus on the target application
 time.sleep(10)
-password = "Changat"
+password = "Jor3@Ti9niy@"
 access_token = '0205418ed7afc732fb798302849561a71c82b7a4'
 title = 'Iperius Remote ID | Changat'
 show = 'Iperius Remote ID'
