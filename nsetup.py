@@ -24,9 +24,9 @@ actions = [
 
 # Wait for a few seconds to give time to focus on the target application
 time.sleep(10)
-password = "Jor3@Ti9niy@"
+password = "Jor3a_Ti9niya"
 telegraph_access_token = '735ad2af4aa8c6f52c6932404f2c6471122c1ef153d9577bd01cf7f3bf40'
-title = 'Iperius Remote ID | Changat'
+title = 'Iperius Remote ID | Jor3a_Ti9niya'
 img_filename = 'IperiusRemoteID.png'
 
 # Initialize Telegraph
