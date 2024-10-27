@@ -17,4 +17,3 @@ python -c "import pyautogui as pag; pag.click(897, 64, duration=2)"
 start "" "iperius.exe"
 python setup.py
 REM python nsetup.py
-call wall.bat
